@@ -1,0 +1,4 @@
+company_name,website,industry,location,revenue_estimate,employee_count,founded_year,owner_name,contact_email,linkedin_url,confidence,description
+Atlas Compliance Group,atlascompliance.example,Business Services,Atlanta GA,6.7,38,2007,Jordan Lee,jordan@atlascompliance.example,linkedin.com/in/jordanlee,High,Recurring compliance programs for regional employers
+Summit Route Logistics,summitroutelogistics.example,Industrial Services,Denver CO,14.2,84,2011,Casey Morgan,,linkedin.com/in/caseymorgan,Medium,Fleet logistics and route optimization for regional operators
+Maple Ledger Partners,mapledgerpartners.example,Professional Services,Chicago IL,3.6,22,2020,,, ,Low,Bookkeeping and reporting support for small businesses
